@@ -1,0 +1,5 @@
+# Models are Keras 2 (.h5) files -> TensorFlow 2.11 - 2.15 (Python 3.9 - 3.11)
+tensorflow>=2.11,<2.16
+numpy<2
+opencv-python-headless
+h5py
